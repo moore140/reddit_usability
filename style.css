@@ -1,73 +1,65 @@
 body {
     font-family: Helvetica;
-    background-color: green;
+    background-color: whitesmoke;
     color: black;
-    padding: 100px;
+    padding: 25px;
     margin-left: 100px; 
 }
 
 h1 {
-    font-family: Helvetica;
-    background-color: whitesmoke;
-    color: black;
-    padding: 100px;
-    margin-left: 100px; 
+    font-size: 
 }
 
 h2 {
-    font-family: Helvetica;
-    background-color: whitesmoke;
-    color: black;
-    padding: 100px;
-    margin-left: 100px; 
+    font-size: 
 }
 
 #redditvisibility {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
 
 #redditstaff {
-    width: 100px;
-    height: 100px; 
+    width: 500px;
+    height: 500px;
 }
 
 #redditusers {
-    width: 100px; 
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
 
 #redditvoting {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
 
 #redditconfirmation {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
 
 #redditUI {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
 
 #redditmarkdown {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
 
 #redditcommentsection {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
 
 #redditerror404 {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
 
 #reddithelpsection {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
