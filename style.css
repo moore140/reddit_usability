@@ -7,59 +7,59 @@ body {
 }
 
 h1 {
-    font-size: 
+    font-size: 1.5ex;
 }
 
 h2 {
-    font-size: 
+    font-size: 1.5ex;
 }
 
 #redditvisibility {
     width: 500px;
-    height: 500px;
+    
 }
 
 #redditstaff {
     width: 500px;
-    height: 500px;
+    
 }
 
 #redditusers {
     width: 500px;
-    height: 500px;
+    
 }
 
 #redditvoting {
     width: 500px;
-    height: 500px;
+    
 }
 
 #redditconfirmation {
     width: 500px;
-    height: 500px;
+    
 }
 
 #redditUI {
     width: 500px;
-    height: 500px;
+    
 }
 
 #redditmarkdown {
     width: 500px;
-    height: 500px;
+    
 }
 
 #redditcommentsection {
     width: 500px;
-    height: 500px;
+    
 }
 
 #redditerror404 {
     width: 500px;
-    height: 500px;
+    
 }
 
 #reddithelpsection {
     width: 500px;
-    height: 500px;
+   
 }
